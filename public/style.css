@@ -130,7 +130,7 @@ nav {
         & .hero-content {
           display: flex;
           flex-direction: column;
-          width: 45%;
+          width: 50%;
           & h1 {
             font-weight: 700;
             font-size: 4rem;
@@ -203,7 +203,7 @@ nav {
         & .photo {
           display: flex;
           align-items: end;
-          width: 100%;
+          width: 50%;
 
           & img {
             width: 100%;
